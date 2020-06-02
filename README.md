@@ -15,6 +15,6 @@ Commit and push your changes to GitHub (push to your `zen-garden-tidy` branch, n
 
 
 ## Reflect 
-Navigate to your `my-reflections-sprint-4` file and answer the questions under the `Code Readability Challenge` heading.
+Navigate to your `my-reflections-sprint-4` file and answer the questions under the `Code Readability` heading.
 
 Commit and push the changes to GitHub.
